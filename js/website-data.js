@@ -1,8 +1,8 @@
 export const WEBSITE_NAME = 'Keto Store';
-export const WEBSITE_URL = 'support@ketostore.com';
+export const WEBSITE_URL = 'ketostore.com';
 export const WEBSITE_CORP = 'Sage Arrow Inc';
 export const WEBSITE_PHONE = '844 926 3651';
-export const WEBSITE_EMAIL = 'support@piecesofcharmgemstore.com';
+export const WEBSITE_EMAIL = 'support@ketostore.com';
 export const WEBSITE_ADDRESS = '9 Camp Bal Place, Little Falls, NJ 07424, USA';
 export const WEBSITE_RETURN_ADDRESS = '1025 Industry Rd Harrodsburg, KY 40330, USA';
 export const WEBSITE_DESCRIPTOR = '8449263651piecesofchar';
