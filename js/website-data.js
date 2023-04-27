@@ -1,5 +1,5 @@
-export const WEBSITE_NAME = 'Pieces Of Charm Gem Store';
-export const WEBSITE_URL = 'piecesofcharmgemstore.com';
+export const WEBSITE_NAME = 'Keto Store';
+export const WEBSITE_URL = 'support@ketostore.com';
 export const WEBSITE_CORP = 'Sage Arrow Inc';
 export const WEBSITE_PHONE = '844 926 3651';
 export const WEBSITE_EMAIL = 'support@piecesofcharmgemstore.com';
@@ -22,8 +22,8 @@ let websiteFulfillment = document.querySelectorAll('.js_website-fulfill');
 
 const mainPageTitle = document.querySelector('.js_main-title');
 const mainPageSubTitle = document.querySelector('.js_sub-title');
-const MAIN_TAGLINE = 'Must have it? We’ve got it. Must have it? We’ve got it';
-const SECONDARY_TAGLINE = 'Online shopping is the best way to buy jewelry you need in two clicks. Online shopping is the best way to buy jewelry you need in two clicks.';
+const MAIN_TAGLINE = 'Healthy living starts here.';
+const SECONDARY_TAGLINE = 'We offer a wide range of products to help you achieve your health goals.';
 if(mainPageTitle) {
     mainPageTitle.textContent = MAIN_TAGLINE;
 }
@@ -32,8 +32,8 @@ if(mainPageSubTitle) {
 }
 const mainPageSecondTitle = document.querySelector('.js_main-second-title');
 const mainPageSecondSubTitle = document.querySelector('.js_second-sub-title');
-const MAIN_SECOND_TAGLINE = 'Must have it? We’ve got it. Must have it? We’ve got it';
-const SECONDARY_SECOND_TAGLINE = 'Online shopping is the best way to buy jewelry you need in two clicks. Online shopping is the best way to buy jewelry you need in two clicks.';
+const MAIN_SECOND_TAGLINE = 'Looking to improve your health and wellness?';
+const SECONDARY_SECOND_TAGLINE = 'Some studies suggest that ketones that generate during the keto diet provide neuroprotective benefits which means they can strengthen and protect the brain and nerve cells. Not only can these diets improve your cholesterol, blood pressure and blood sugar, but they also reduce your appetite, boost weight loss and lower your triglycerides. If you are interested in keto and wellness products, some benefits include weight loss, managing acne, improving heart health, reducing body weight and cancer risk. ';
 if(mainPageSecondTitle) {
     mainPageSecondTitle.textContent = MAIN_SECOND_TAGLINE;
 }
