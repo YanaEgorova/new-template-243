@@ -104,7 +104,7 @@
 }
 .phrase .text {
     margin: 0 auto 6rem;
-    max-width: 45rem;
+    max-width: 65rem;
 }
 .phrase__img {
     display: block;
@@ -120,7 +120,7 @@
     box-shadow: 0rem 0rem 0rem .2rem var(--second-brand-color);
 }
 .phrase__block {
-    max-width: 40rem;
+    max-width: 60rem;
     margin: 0 auto;
     position: relative;
 }
