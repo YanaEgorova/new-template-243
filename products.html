@@ -99,11 +99,7 @@
             </div>
 
             <div class="products__block">
-              <div class="swiper mySwiper">
-                <div class="swiper-wrapper js_products__list">
-                </div>
-                <div class="swiper-pagination"></div>
-              </div>
+              <div class="js_products__list products__list"></div>
             </div>
 
           </section>
@@ -209,22 +205,7 @@
       document.body.classList.toggle('open-menu');
     })
   </script>
-  <script src="./js/swiper-bundle.min.js"></script>
-  <script>
-    const swiper = new Swiper(".mySwiper", {
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
-      },
-      breakpoints: {
-        1440: {
-          slidesPerView: 4,
-          spaceBetween: 15,
-          watchSlidesProgress: true,
-        }
-      }
-    });
-  </script>
+
 
 </body>
 

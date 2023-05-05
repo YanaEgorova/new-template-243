@@ -1,7 +1,7 @@
 export const item = (product) => {
 
   return `
-    <li class="item swiper-slide">
+    <li class="item ">
 
       
   <div class="product__block js_product glass glass-m" id="${product.id}">
