@@ -157,7 +157,7 @@ body.error-active .error__overlay {
 
 .title {
   text-transform: uppercase;
-  font-size: 4rem;
+  font-size: 3rem;
   font-family: var(--title-font);
 }
 .sub-title {
